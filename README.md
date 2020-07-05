@@ -15,7 +15,7 @@
 2. 計數器 CDN
 
 ```
-<script src="https://github.com/KID421/Web_HC_TC_Counter/blob/master/counter.js"></script>
+<script src="https://kid421.github.io/Web_HC_TC_Counter/counter.js"></script>
 ```
 
 3. 參數說明
