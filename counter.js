@@ -15,6 +15,14 @@ $(document).ready(function () {
 
         // console.log("視窗的上方：" + windowTop);
 
+        var number = $("#test").attr("data-counter-number");
+        var time = $("#test").attr("data-counter-time");
+        var offset = $("#test").attr("data-counter-offset");
+
+        console.log("數字：" + number);
+        console.log("時間：" + time);
+        console.log("位移：" + offset);
+
         // 判斷式
         // 如果 發生什麼事 就...
         // if (條件) { 程式 }
